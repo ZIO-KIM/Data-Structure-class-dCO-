@@ -1,4 +1,5 @@
-int findMax(int a, int b) {
+int findMax(int a, int b) 
+{
 
 	if (a > b) {
 		return a; 
@@ -9,7 +10,8 @@ int findMax(int a, int b) {
 	}
 }
 
-void print_characters(char c, int n) {
+void print_characters(char c, int n) 
+{
 	
 	int i; 
 
